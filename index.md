@@ -1,5 +1,5 @@
 # Mehak's User Page
-![picture](profile.jpg)
+![picture](IMG_4817.JPG)
 
 ## Profile
 Hi! My name is **Mehak**. I am a senior at UCSD, majoring in Mathematics- Computer Science.
