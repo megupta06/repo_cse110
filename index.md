@@ -21,10 +21,10 @@ def greet(name):
 
 print(greet("Mehak"))
 ```
-Section Link: [Other programming skills](# skills-and-interests)
+Section Link: [Other programming skills](#skills-and-interests)
 
 ## External Link
-Linkedin link: [linkedin](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
-To confirm you are viewing me: [Click here]()
+Linkedin link: [linkedin](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) </br>
+To confirm you are viewing me: [Click here](docs/IMG_4817.JPG)
 
 
