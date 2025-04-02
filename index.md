@@ -26,6 +26,6 @@ I do know other languages too! </br>
 [Other programming skills](#skills-and-interests)
 
 ## External Link
-Linkedin link: [linkedin](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) 
+Linkedin link: [linkedin](www.linkedin.com/in/mehak-gupta-bb0377284) 
 
 
