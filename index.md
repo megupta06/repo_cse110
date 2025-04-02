@@ -46,6 +46,6 @@ I have taken courses like:
 - [ ] Pass this class with A
 
 ## Want to know more about me?
-[Kinkedin Link](https://www.linkedin.com/in/mehak-gupta-bb0377284/) 
+[Linkedin Link](https://www.linkedin.com/in/mehak-gupta-bb0377284/) 
 
 
