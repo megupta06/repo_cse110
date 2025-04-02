@@ -37,7 +37,14 @@ I have taken courses like:
 - CSE100
 + CSE105
 * CSE101
-   
+
+## A peek to my bucketlist
+-[X] Scuba diving
+-[] sky diving
+-[X] hot air balloon ride
+-[] visit Australia
+-[] Pass this class with A
+
 ## Want to know more about me?
 Linkedin link: [linkedin](https://www.linkedin.com/in/mehak-gupta-bb0377284/) 
 
