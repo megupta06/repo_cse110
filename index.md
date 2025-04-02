@@ -22,6 +22,6 @@ def greet(name):
 print(greet("Mehak"))
 ```
 ## External Link
-Linkedin link: [linkedin] (www.linkedin.com/in/mehak-gupta-bb0377284)
+Linkedin link: [linkedin](www.linkedin.com/in/mehak-gupta-bb0377284)
 
 
