@@ -2,14 +2,14 @@
 ![picture](IMG_4817.JPG)
 
 ## Profile
-Hi! My name is **Mehak**. I am a senior at UCSD, majoring in Mathematics- Computer Science.
+Hi! My name is **Mehak**. I am a senior at UCSD, majoring in Mathematics- Computer Science. I am an internation student from India.
 
 ## Skills and Interests
 I am skilled in languages like *Python*, *Java*, *C++*, *C programming*. I am intersted in **fintech**, **software engineering** and **human-computer interaction**.
-I love to travel and explore more places asides programming. I visited Spain with my friends this spring break.
+I love to travel and explore more places asides programming. I visited Spain with my friends this spring break. My hobbies include cooking and reading.
 
 ## Life Mantra
-I belived in the quote by Lucius Annaeus Seneca
+I follow this life mantra:
 > Travel and change of place impart new vigor to the mind.
 
 ## Places I have travelled
@@ -29,8 +29,10 @@ def greet(name):
 
 print(greet("Mehak"))
 ```
-To know what is my favorite programming language [click here](README.md) </br>
-I do know other languages too! </br>
+To know what is my favorite programming language [click here](README.md) 
+
+I do know other languages too! 
+
 [Other programming skills](#skills-and-interests)
 
 I have taken courses like:
