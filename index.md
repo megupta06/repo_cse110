@@ -5,7 +5,7 @@
 Hi! My name is **Mehak**. I am a senior at UCSD, majoring in Mathematics- Computer Science.
 
 ## Skills and Interests
-I am skilled in languages like 'Python', 'Java', 'C++', 'C programming'. I am intersted in **fintech**, **software engineering** and **human-computer interaction**.
+I am skilled in languages like * *Python* *, * *Java* *, * *C++* *, * *C programming* *. I am intersted in **fintech**, **software engineering** and **human-computer interaction**.
 I love to travel and explore more places asides programming. I visited Spain with my friends this spring break.
 
 ## Life Mantra
@@ -22,6 +22,6 @@ def greet(name):
 print(greet("Mehak"))
 ```
 ## External Link
-Linkedin link: [linkedin] ()
+Linkedin link: [linkedin] (www.linkedin.com/in/mehak-gupta-bb0377284)
 
 
