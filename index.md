@@ -21,7 +21,8 @@ def greet(name):
 
 print(greet("Mehak"))
 ```
-To know what is my favorite programming language [click here](README.md)
+To know what is my favorite programming language [click here](README.md) </br>
+I do know other languages too! </br>
 [Other programming skills](#skills-and-interests)
 
 ## External Link
