@@ -20,7 +20,7 @@ I belived in the quote by Lucius Annaeus Seneca
 5. Hongkong
 6. Turkey
 
-## Example of Python code
+## I do know how to code as well!
 Code snippet
 ```
 python
