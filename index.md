@@ -12,6 +12,14 @@ I love to travel and explore more places asides programming. I visited Spain wit
 I belived in the quote by Lucius Annaeus Seneca
 > Travel and change of place impart new vigor to the mind.
 
+## Places I have travelled
+1. Spain
+2. London
+3. Singapore
+4. Paris
+5. Hongkong
+6. Turkey
+
 ## Example of Python code
 Code snippet
 ```
@@ -25,7 +33,12 @@ To know what is my favorite programming language [click here](README.md) </br>
 I do know other languages too! </br>
 [Other programming skills](#skills-and-interests)
 
-## External Link
-Linkedin link: [linkedin](www.linkedin.com/in/mehak-gupta-bb0377284) 
+I have taken courses like:
+- CSE100
++ CSE105
+* CSE101
+   
+## Want to know more about me?
+Linkedin link: [linkedin](https://www.linkedin.com/in/mehak-gupta-bb0377284/) 
 
 
